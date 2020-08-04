@@ -1,0 +1,512 @@
+.xiLiHu {
+	position: relative;
+	top: 798px;
+	left: 811px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.xiLiHu +span {
+	position: relative;
+	top: 754px;
+	left: 798px;
+}
+.chaGuang {
+	position: relative;
+	top: 878px;
+	left: 811px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.chaGuang +span {
+	position: relative;
+	top: 858px;
+	left: 834px;
+}
+.zhuGuang {
+	position: relative;
+	top: 876px;
+	left: 811px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.zhuGuang +span {
+	position: relative;
+	top: 855px;
+	left: 834px;
+}
+.longJing {
+	position: relative;
+	top: 876px;
+	left: 811px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.longJing +span {
+	position: relative;
+	top: 856px;
+	left: 834px;
+}
+.taoYuanCun {
+	position: relative;
+	top: 874px;
+	left: 811px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.taoYuanCun +span {
+	position: relative;
+	top: 854px;
+	left: 834px;
+}
+.shenYun {
+	position: relative;
+	top: 874px;
+	left: 811px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.shenYun +span {
+	position: relative;
+	top: 854px;
+	left: 834px;
+}
+.nongLin {
+	position: relative;
+	top: 987px;
+	left: 890px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.nongLin +span {
+	position: relative;
+	top: 944px;
+	left: 882px;
+}
+.shangSha {
+	position: relative;
+	top: 1100px;
+	left: 982px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.shangSha +span {
+	position: relative;
+	top: 1080px;
+	left: 942px;
+}
+.shaWei {
+	position: relative;
+	top: 1052px;
+	left: 1062px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.shaWei +span {
+	position: relative;
+	top: 1056px;
+	left: 1056px;
+}
+.huangGangCun {
+	position: relative;
+	top: 1002px;
+	left: 1242px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.huangGangCun +span {
+	position: relative;
+	top: 960px;
+	left: 1226px;
+}
+.huangGangKouAn {
+	position: relative;
+	top: 959px;
+	left: 1422px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.huangGangKouAn +span {
+	position: relative;
+	top: 960px;
+	left: 1400px;
+}
+.chiWei {
+	position: relative;
+	top: 915px;
+	left: 1512px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.chiWei +span {
+	position: relative;
+	top: 895px;
+	left: 1535px;
+}
+.huaQiangSouth {
+	position: relative;
+	top: 798px;
+	left: 1512px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.huaQiangSouth +span {
+	position: relative;
+	top: 782px;
+	left: 1535px;
+}
+.huangMuGang {
+	position: relative;
+	top: 365px;
+	left: 1575px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.huangMuGang +span {
+	position: relative;
+	top: 348px;
+	left: 1515px;
+}
+.hongLingNorth {
+	position: relative;
+	top: 287px;
+	left: 1716px;
+	width: 36px;
+	height: 12px;
+	border-radius: 10px;
+	border: 2px solid #000;
+	cursor: pointer;
+}
+.hongLingNorth +span {
+	position: relative;
+	top: 292px;
+	left: 1740px;
+}
+.sunGang {
+	position: relative;
+	top: 247px;
+	left: 1780px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.sunGang +span {
+	position: relative;
+	top: 208px;
+	left: 1775px;
+}
+.hongHu {
+	position: relative;
+	top: 203px;
+	left: 1826px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #0000ff;
+	cursor: pointer;
+}
+.hongHu +span {
+	position: relative;
+	top: 165px;
+	left: 1820px;
+}
+.line7_0 {
+	position: relative;
+	top: 810px;
+	left: 786px;
+	width: 70px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_1 {
+	position: relative;
+	top: 824px;
+	left: 808px;
+	width: 25px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_2 {
+	position: relative;
+	top: 824px;
+	left: 808px;
+	width: 25px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_3 {
+	position: relative;
+	top: 823px;
+	left: 808px;
+	width: 25px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_4 {
+	position: relative;
+	top: 822px;
+	left: 808px;
+	width: 25px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_5 {
+	position: relative;
+	top: 820px;
+	left: 808px;
+	width: 25px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_5_0 {
+	position: relative;
+	top: 868px;
+	left: 799px;
+	width: 42px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_5_1 {
+	position: relative;
+	top: 962px;
+	left: 775px;
+	width: 90px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_5_2 {
+	position: relative;
+	top: 1000px;
+	left: 822px;
+	width: 70px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_6 {
+	position: relative;
+	top: 956px;
+	left: 910px;
+	width: 85px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_6_0 {
+	position: relative;
+	top: 962px;
+	left: 980px;
+	width: 25px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_7{
+	position: relative;
+	top: 1000px;
+	left: 932px;
+	width: 120px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_7_0{
+	position: relative;
+	top: 1064px;
+	left: 1002px;
+	width: 60px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_8{
+	position: relative;
+	top: 1020px;
+	left: 1082px;
+	width: 68px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_8_0{
+	position: relative;
+	top: 1015px;
+	left: 1162px;
+	width: 80px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_9{
+	position: relative;
+	top: 971px;
+	left: 1262px;
+	width: 45px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_10{
+	position: relative;
+	top: 927px;
+	left: 1342px;
+	width: 80px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_11{
+	position: relative;
+	top: 883px;
+	left: 1442px;
+	width: 70px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_11_0{
+	position: relative;
+	top: 845px;
+	left: 1497px;
+	width: 50px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_12{
+	position: relative;
+	top: 664px;
+	left: 1428px;
+	width: 188px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_12_0{
+	position: relative;
+	top: 528px;
+	left: 1496px;
+	width: 51px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_12_1{
+	position: relative;
+	top: 454px;
+	left: 1511px;
+	width: 20px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(90deg);
+}
+.line7_12_2{
+	position: relative;
+	top: 412px;
+	left: 1509px;
+	width: 80px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(135deg);
+}
+.line7_13{
+	position: relative;
+	top: 316px;
+	left: 1586px;
+	width: 30px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(135deg);
+}
+.line7_13_0{
+	position: relative;
+	top: 300px;
+	left: 1610px;
+	width: 50px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_13_1{
+	position: relative;
+	top: 295px;
+	left: 1671px;
+	width: 46px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_14{
+	position: relative;
+	top: 259px;
+	left: 1752px;
+	width: 30px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_15{
+	position: relative;
+	top: 215px;
+	left: 1798px;
+	width: 30px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_16{
+	position: relative;
+	top: 171px;
+	left: 1844px;
+	width: 32px;
+	height: 5px;
+	background-color:#0000ff;
+}
+.line7_16_0{
+	position: relative;
+	top: 200px;
+	left: 1900px;
+	width: 136px;
+	height: 5px;
+	background-color:#0000ff;
+	transform: rotate(30deg);
+}

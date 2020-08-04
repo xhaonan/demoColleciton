@@ -1,0 +1,58 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.container{
+	width:100%;
+	height:1453px;
+	background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 20% 15%;
+	overflow: hidden;
+}
+.wrapper{
+	width: 100%;
+	height: 20%;
+
+}
+ul{
+	list-style-type: none;
+}
+.cityMap{
+	float:left;
+	display: inline-block;
+	border-radius: 5px;
+	background-image: linear-gradient(-120deg,#f4511e,#9198e5,#ff9900,violet);
+	border: none;
+	color: #ffffff;
+	text-align: center;
+	font-size: 28px;
+	padding: 20px;
+	width: 200px;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 30px 65px;
+}
+.cityMap span{
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+	transition: all 0.5s;
+}
+.cityMap span::after{
+	content: '>>';
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	right: 20px;
+	transition: 0.5s;
+}
+.cityMap:hover span{
+	padding-right: 40px;
+}
+.cityMap:hover span::after{
+	opacity: 1;
+	right:0;
+}

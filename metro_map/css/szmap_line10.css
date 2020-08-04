@@ -1,0 +1,466 @@
+.dongGuaLing{
+	position: relative;
+	top: 1008px;
+	left: 1408px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.dongGuaLing +span {
+	position: relative;
+	top: 990px;
+	left: 1432px;
+}
+.yaBao{
+	position: relative;
+	top: 832px;
+	left: 1408px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.yaBao +span {
+	position: relative;
+	top: 812px;
+	left: 1432px;
+}
+.nanKeng{
+	position: relative;
+	top: 730px;
+	left: 1408px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.nanKeng +span {
+	position: relative;
+	top: 710px;
+	left: 1432px;
+}
+.guangYaYuan{
+	position: relative;
+	top: 638px;
+	left: 1408px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.guangYaYuan +span {
+	position: relative;
+	top: 618px;
+	left: 1432px;
+}
+.banTianNorth{
+	position: relative;
+	top: 488px;
+	left: 1408px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.banTianNorth +span {
+	position: relative;
+	top: 468px;
+	left: 1432px;
+}
+.beiErLu{
+	position: relative;
+	top: 386px;
+	left: 1408px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.beiErLu +span {
+	position: relative;
+	top: 366px;
+	left: 1432px;
+}
+.huaWei{
+	position: relative;
+	top: 284px;
+	left: 1408px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.huaWei +span {
+	position: relative;
+	top: 264px;
+	left: 1432px;
+}
+.gangTou{
+	position: relative;
+	top: 205px;
+	left: 1455px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.gangTou +span {
+	position: relative;
+	top: 164px;
+	left: 1450px;
+}
+.xueXiang{
+	position: relative;
+	top: 161px;
+	left: 1532px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.xueXiang +span {
+	position: relative;
+	top: 121px;
+	left: 1525px;
+}
+.ganKeng{
+	position: relative;
+	top: 117px;
+	left: 1610px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.ganKeng +span {
+	position: relative;
+	top: 78px;
+	left: 1603px;
+}
+.liangMaoShan{
+	position: relative;
+	top: 73px;
+	left: 1690px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.liangMaoShan +span {
+	position: relative;
+	top: 33px;
+	left: 1675px;
+}
+.shangLiLang{
+	position: relative;
+	top: -12px;
+	left: 1761px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.shangLiLang +span {
+	position: relative;
+	top: -32px;
+	left: 1785px;
+}
+.muGu{
+	position: relative;
+	top: -104px;
+	left: 1761px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.muGu +span {
+	position: relative;
+	top: -124px;
+	left: 1785px;
+}
+.huaNanCheng{
+	position: relative;
+	top: -196px;
+	left: 1761px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.huaNanCheng +span {
+	position: relative;
+	top: -216px;
+	left: 1785px;
+}
+.heHua{
+	position: relative;
+	top: -288px;
+	left: 1761px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.heHua +span {
+	position: relative;
+	top: -308px;
+	left: 1785px;
+}
+.pingHu{
+	position: relative;
+	top: -380px;
+	left: 1761px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.pingHu +span {
+	position: relative;
+	top: -400px;
+	left: 1785px;
+}
+.shuangYongJie{
+	position: relative;
+	top: -472px;
+	left: 1761px;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	border: 2px solid #FF99CC;
+	cursor: pointer;
+}
+.shuangYongJie +span {
+	position: relative;
+	top: -492px;
+	left: 1785px;
+}
+.line10_0 {
+	position: relative;
+	top: 1466px;
+	left: 1306px;
+	width: 50px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_0_0 {
+	position: relative;
+	top: 1364px;
+	left: 1300px;
+	width: 150px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(125deg);
+}
+.line10_0_1 {
+	position: relative;
+	top: 1187px;
+	left: 1318px;
+	width: 200px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_0_2 {
+	position: relative;
+	top:1050px;
+	left: 1398px;
+	width: 40px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_1 {
+	position: relative;
+	top:944px;
+	left: 1393px;
+	width: 50px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_1_0 {
+	position: relative;
+	top:863px;
+	left: 1408px;
+	width: 20px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_2 {
+	position: relative;
+	top:772px;
+	left: 1398px;
+	width: 40px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_3 {
+	position: relative;
+	top:674px;
+	left: 1403px;
+	width: 30px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_4 {
+	position: relative;
+	top:585px;
+	left: 1406px;
+	width: 24px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_4_0 {
+	position: relative;
+	top:522px;
+	left: 1406px;
+	width: 24px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_5 {
+	position: relative;
+	top:428px;
+	left: 1398px;
+	width: 40px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_6 {
+	position: relative;
+	top:326px;
+	left: 1398px;
+	width: 40px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_7 {
+	position: relative;
+	top:234px;
+	left: 1408px;
+	width: 20px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_7_0 {
+	position: relative;
+	top:218px;
+	left: 1416px;
+	width: 40px;
+	height: 5px;
+	background-color:#ff99cc;
+}
+.line10_8 {
+	position: relative;
+	top:174px;
+	left: 1474px;
+	width: 60px;
+	height: 5px;
+	background-color:#ff99cc;
+}
+.line10_9 {
+	position: relative;
+	top:130px;
+	left: 1550px;
+	width: 60px;
+	height: 5px;
+	background-color:#ff99cc;
+}
+.line10_10 {
+	position: relative;
+	top:86px;
+	left: 1630px;
+	width: 60px;
+	height: 5px;
+	background-color:#ff99cc;
+}
+.line10_11 {
+	position: relative;
+	top:42px;
+	left: 1710px;
+	width: 60px;
+	height: 5px;
+	background-color:#ff99cc;
+}
+.line10_11_0 {
+	position: relative;
+	top:25px;
+	left: 1756px;
+	width: 30px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_12 {
+	position: relative;
+	top:-67px;
+	left: 1756px;
+	width: 30px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_13 {
+	position: relative;
+	top:-159px;
+	left: 1756px;
+	width: 30px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_14 {
+	position: relative;
+	top:-252px;
+	left: 1756px;
+	width: 30px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_15 {
+	position: relative;
+	top:-344px;
+	left: 1756px;
+	width: 30px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
+.line10_16 {
+	position: relative;
+	top:-436px;
+	left: 1756px;
+	width: 30px;
+	height: 5px;
+	background-color:#ff99cc;
+	transform: rotate(90deg);
+}
